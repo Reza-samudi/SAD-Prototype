@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Database\\Database.csproj": {}
+    "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\Database.csproj": {}
   },
   "projects": {
-    "C:\\Database\\Database.csproj": {
+    "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Database\\Database.csproj",
+        "projectUniqueName": "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Database\\Database.csproj",
+        "projectPath": "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\Database.csproj",
         "packagesPath": "C:\\Users\\Reza Samudi\\.nuget\\packages\\",
-        "outputPath": "C:\\Database\\obj\\",
+        "outputPath": "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reza Samudi\\AppData\\Roaming\\NuGet\\NuGet.Config"

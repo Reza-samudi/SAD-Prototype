@@ -8,7 +8,6 @@ public class User {
     public string gender { get ; set ; }
     public string Email { get; set; }
     public string Username { get; set; }
-    public string gender1 { get ; set ; }
     public DateTime? UploadTime { get; set; } // optional
     public string Address { get; set; }
     public StatusType StatusRole { get; set; }

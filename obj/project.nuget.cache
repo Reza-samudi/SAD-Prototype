@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elX13pOzXZ8lmW2NBLqmt0IkaJ8Trye8XeZz69RXqAXGfUVilqeNHkbm7l6/ZdSFI9wkrEmDjeeTrcpQzqp3IA==",
+  "dgSpecHash": "Q6z40AFNlLuejYuhAkngqmXN2bOAupnbIaVIrRJ4DieraquIWZvjfNx6A/QttOmBUBQq/aOEcgBu7m1kJdco7w==",
   "success": true,
-  "projectFilePath": "C:\\Database\\Database.csproj",
+  "projectFilePath": "D:\\daneshgah\\Reza\\M51\\Final_07_06\\Implementation\\Database project with c#\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reza Samudi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Reza Samudi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
